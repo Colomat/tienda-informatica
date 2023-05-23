@@ -7,3 +7,18 @@
 .form1, .form2, .form3{
     padding-right: 10px;
 }
+
+
+button{
+display: inline-block;
+margin: 20px;
+}
+
+.listadescuento{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(218, 104, 104);
+    color: #fff;
+}
+
+
